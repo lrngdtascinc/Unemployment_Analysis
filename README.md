@@ -10,7 +10,7 @@
 
 #### If we llok at the bar graph we can see that the states most effected at this time were California, New York, New Mexico, Nevada, and Hawaii. THe states that were least effected were South Dekota, Nebraska, Utah, Kansas, and North Dekota.
 
-![2020 Unemployment Rates]()
+![2020 Unemployment Rates](https://github.com/lrngdtascinc/Unemployment_Analysis/blob/1475f6212acc8a61c4eee2cf017816fdbc8b9458/2020%20Unemployment%20Rate%20Percentage.png)
 
 ## 2021 Unemployment Insights 
 
