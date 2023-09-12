@@ -16,7 +16,7 @@
 
 #### If we look at the bar graph for 2021 we can see that the states most effected at this time were California, New York, New Mexico, Nevada, and Hawaii. THe states that were least effected were South Dekota, Nebraska, Utah, Kansas, and North Dekota.
 
-![2021 Unemployment Rates]()
+![2021 Unemployment Rates](https://github.com/lrngdtascinc/Unemployment_Analysis/blob/350312de45f9038bb87fe83a1cc79fd68761f0de/2021%20Unemployment%20Rate%20Percentage.png)
 
 ## 2022 Unemployment Insights
 
