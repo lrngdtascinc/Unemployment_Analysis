@@ -20,6 +20,6 @@
 
 ## 2022 Unemployment Insights
 
-####
+#### If we look at the bar graph for 2022 we can see that the states most effected at this time were Nevada, The District of Columbia, Illinois, Delaware, and Pennsylvania. The states that were least effected were South Dekota, Nebraska, North Dekota, New Hampshire, and Vermont.
 
-![2022 Unemployment Rates]()
+![2022 Unemployment Rates](https://github.com/lrngdtascinc/Unemployment_Analysis/blob/3d5a93d87d410f2608987dca4a6070005ea24451/2022%20Unemployment%20Rate%20Percentage.png)
